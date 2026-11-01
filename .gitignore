@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+**/target/
+**/__pycache__/
+artifacts/
+.vs/
+*.user
+*.log

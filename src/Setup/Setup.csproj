@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>WinExe</OutputType><TargetFramework>net10.0-windows</TargetFramework><AssemblyName>GDA-ZZZ-Setup</AssemblyName><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable><Version>0.1.0</Version></PropertyGroup>
+  <ItemGroup><EmbeddedResource Include="../../artifacts/GDA-ZZZ-win-x64.zip" LogicalName="app.zip" /></ItemGroup>
+</Project>
